@@ -1,2 +1,2 @@
 
-python ('Jenkins Working!')
+print ('Jenkins Working!')
